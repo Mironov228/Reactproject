@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"che",
+				"chekerCategory\tabc"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc\t(addarticle.php)"
+			],
+			[
+				"req",
+				"request\tabc"
+			],
+			[
+				"add",
+				"addArticle\tabc"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"ch",
+				"checkerlogin\tabc"
+			],
+			[
+				"head",
+				"head\t(panel.php)"
+			],
+			[
+				"c",
+				"checkerlogin\tabc"
+			],
+			[
+				"chr",
+				"checkerpassword\tabc"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"endf",
+				"ob_end_flush"
+			],
+			[
+				"getA",
+				"getArticleBiTitle\t(ArticleController.php)"
+			],
+			[
+				"titl",
+				"titleArticle\tabc"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch_assoc\tabc"
+			],
+			[
+				"articles",
+				"articles_gleb\tabc"
+			],
+			[
+				"h",
+				"hr\tTag"
+			],
+			[
+				"MARGIN",
+				"margin-left\tproperty"
+			],
+			[
+				"ar",
+				"article\tabc"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"mys",
+				"mysqli_fetch_assoc\t(Category.php)"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fot",
+				"footer\tTag"
+			],
+			[
+				"target",
+				"target=\"_self\tabc"
+			],
+			[
+				"num",
+				"num_articles_of_the_page\tabc"
+			],
+			[
+				"categ",
+				"categoryName\tabc"
+			],
+			[
+				"arra",
+				"array_push\tabc"
+			],
+			[
+				"res",
+				"results\tabc"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array\tabc"
+			],
+			[
+				"cate",
+				"categoryName\tabc"
+			],
+			[
+				"Add",
+				"AddDefaultCharset\t(Apache_2.4-PHP_7.0-7.1-x64_server.conf)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PackageResourceViewer: Open Resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/Глеб/Python/Neiroseti/1/weights.txt",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/panel.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/addarticle.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/cheked.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/delarticle.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/delcategory.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/addnewcategory.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-3/login.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-3/addarticle.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-3/SiteController.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-3/cheked.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-3/panel.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/article.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/main.css",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/site.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/rout.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/cheked 2.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/SiteController.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/login 3.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/login 2.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/config.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/CategoryController.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/ArticleController.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/article 2.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/Article.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/category 3.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/popular.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/router.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/Category.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/Product.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/Category 2.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/models/Category.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/java.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/.htaccess",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/component/connect.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/controllers/CatalogController.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/views/site.php",
+		"/C/Users/User/Desktop/Фишинг/config.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/component/router.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/controllers/SiteController.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/main.css.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-2/main.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/main.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/rout.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/config/routs.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/test1/index.php",
+		"/C/Users/User/Downloads/I8080emu/I8080emu/TODO",
+		"/C/Users/User/Documents/Downloads/OSPanel/progs/_Office/Sublime_text/Data/Cache/Java/JavaDoc.sublime-syntax.cache",
+		"/C/Users/User/Documents/GTA San Andreas User Files/SAMP/USERDATA.DAT",
+		"/C/Users/User/Documents/GTA San Andreas User Files/gta_sa.set",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/1/magaz/rout.php",
+		"/C/Users/User/Desktop/VK FAKE BY ROMELO/index.php",
+		"/C/Users/User/Desktop/VK FAKE BY ROMELO/dashboard.php",
+		"/C/Users/User/Desktop/VK FAKE BY ROMELO/config.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/example/index.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/magaz/views/site/index.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/magaz/index.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/magaz/views/product/view.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/test1/java.php",
+		"/C/Users/User/Desktop/fun.php",
+		"/C/Users/User/Desktop/pngrp.ru/index.php",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/.htaccess",
+		"/C/Users/User/documents/downloads/OSPanel/userdata/config/Apache_2.4-PHP_7.0-7.1-x64_server.conf",
+		"/C/Users/User/documents/downloads/OSPanel/userdata/config/Apache_2.4-PHP_7.0-7.1-x64_vhost.conf",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/test1/.htaccess",
+		"/C/Users/User/Documents/Downloads/OSPanel/domains/localhost/OSPanel/domains/localhost/.htaccess"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
